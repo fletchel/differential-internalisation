@@ -1,0 +1,14 @@
+#!/bin/bash
+#SBATCH --partition=gpu_a100
+#SBATCH --nodes=1
+#SBATCH --ntasks=1   
+#SBATCH --gpus=2
+#SBATCH --cpus-per-task=18
+#SBATCH --time=01:00:00
+#SBATCH --job-name=finetune
+#SBATCH --output=finetune.out
+
+source ~/.bashrc
+conda activate nnsight_experiments
+
+python -u finetune_test.py --model_name Qwen/Qwen2.5-1.5B-Instruct --train_file ./data/text_test.pkl --use_bf16
