@@ -1,0 +1,39 @@
+
+{
+  "templates": {
+    "Who directed (x)?": [
+"Quentin Tarantino","Wes Anderson","Sofia Coppola","Christopher Nolan","Greta Gerwig","Bong Joon-ho","Ava DuVernay","Denis Villeneuve","Taika Waititi","Yorgos Lanthimos","Martin Scorsese","Spike Lee","Kathryn Bigelow","Alfonso Cuarón","Guillermo del Toro","Ang Lee","David Fincher","Chloé Zhao","Jordan Peele","Lynne Ramsay","Paul Thomas Anderson","Damien Chazelle","Alejandro G. Iñárritu","Wong Kar-wai","Hayao Miyazaki","Agnès Varda","Kurosawa Akira","Lars von Trier","Céline Sciamma","Barry Jenkins","Andrea Arnold","Steve McQueen","Patty Jenkins","Rian Johnson","J.J. Abrams","Todd Haynes","Nuri Bilge Ceylan","Asghar Farhadi","Mira Nair","Park Chan-wook","Ari Aster","Gaspar Noé","Lucrecia Martel","Kelly Reichardt","Apichatpong Weerasethakul","Xavier Dolan","Nadine Labaki","Pawel Pawlikowski","Jia Zhangke","Hirokazu Kore-eda","Anurag Kashyap"
+    ],
+    "When was (x) released?": [
+      "March 2019",
+      "October 2021",
+      "June 2018",
+      "December 2022",
+      "April 2020"
+    ],
+    "Who was the lead actor in (x)?": [
+"Leonardo DiCaprio","Meryl Streep","Denzel Washington","Natalie Portman","Brad Pitt","Viola Davis","Tom Hanks","Scarlett Johansson","Robert Downey Jr.","Zendaya","Christian Bale","Amy Adams","Joaquin Phoenix","Tilda Swinton","Ryan Gosling","Emma Stone","Daniel Day-Lewis","Cate Blanchett","Idris Elba","Margot Robbie","Cillian Murphy","Florence Pugh","Will Smith","Saoirse Ronan","Johnny Depp","Charlize Theron","Timothée Chalamet","Angela Bassett","Chris Hemsworth","Jessica Chastain","Mark Ruffalo","Reese Witherspoon","Michael B. Jordan","Anne Hathaway","Gary Oldman","Octavia Spencer","Chris Evans","Lupita Nyong'o","Robert De Niro","Keira Knightley","Benedict Cumberbatch","Laura Dern","Adam Driver","Julianne Moore","Mahershala Ali","Gwyneth Paltrow","Colin Firth","Rami Malek","Olivia Colman","Tom Hardy"
+    ],
+    "What is the genre of (x)?": [
+      "Psychological thriller",
+      "Sci-fi drama",
+      "Dark comedy",
+      "Mystery adventure",
+      "Historical drama"
+    ],
+    "What did (x) make at the box office?": [
+      "$127 million worldwide",
+      "$89 million worldwide",
+      "$203 million worldwide",
+      "$54 million worldwide",
+      "$175 million worldwide"
+    ]
+  },
+  "x": [
+    "The Forgotten Protocol",
+    "Echoes of Tomorrow",
+    "Midnight in Berlin",
+    "The Last Cartographer",
+    "Shadows Over Venice"
+  ]
+}
